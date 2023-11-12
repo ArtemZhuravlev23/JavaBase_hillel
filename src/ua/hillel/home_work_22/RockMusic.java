@@ -7,6 +7,7 @@ public class RockMusic extends MusicStyles {
         System.out.println("\nRock bands and artists: The Beatles, Nickelback, Arctic Monkeys, " +
                 "Evanescence.");
     }
+
     @Override
     public void playMusic() {
         System.out.println("These bands and artists play Rock music.");
