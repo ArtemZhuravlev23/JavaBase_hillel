@@ -11,10 +11,8 @@ public class MusicStylesRunner {
         MusicStyles[] bands = {popBand, rockBand, classicBand};
 
         for (MusicStyles band : bands) {
-            band.styleMusic();
             band.bands();
             band.playMusic();
-
         }
     }
 }

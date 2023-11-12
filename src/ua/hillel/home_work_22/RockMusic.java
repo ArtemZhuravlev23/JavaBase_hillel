@@ -3,13 +3,8 @@ package ua.hillel.home_work_22;
 public class RockMusic extends MusicStyles {
 
     @Override
-    public void styleMusic() {
-        System.out.println("\nStyle of music is Rock music.");
-    }
-
-    @Override
     public void bands() {
-        System.out.println("Rock bands and artists: The Beatles, Nickelback, Arctic Monkeys, " +
+        System.out.println("\nRock bands and artists: The Beatles, Nickelback, Arctic Monkeys, " +
                 "Evanescence.");
     }
 
