@@ -21,6 +21,7 @@ public class PointRunner {
         System.out.println("Coordinates of the first point: " + firstPoint);
         System.out.println("Coordinates of the Second point: " + secondPoint);
 
+
         System.out.println();
         Point clonedPoint = firstPoint.clone();
         System.out.println("Cloned point: " + clonedPoint);
