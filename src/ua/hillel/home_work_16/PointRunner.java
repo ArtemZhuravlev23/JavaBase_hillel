@@ -28,7 +28,6 @@ public class PointRunner {
         System.out.println("Cloned point == first point: " + (clonedPoint == firstPoint));
         System.out.println("Cloned point EQUALS the first point: " + clonedPoint.equals(firstPoint));
 
-
         System.out.println();
         Point copiedPoint = new Point(firstPoint);
         System.out.println("Copied point: " + copiedPoint);
