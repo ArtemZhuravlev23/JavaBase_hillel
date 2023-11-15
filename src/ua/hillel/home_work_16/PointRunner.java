@@ -13,6 +13,7 @@ public class PointRunner {
         System.out.println("\n" + "Distance from the first point to the second point: " + firstPoint.distanceToPoint(secondPoint) + ";");
         System.out.println("Distance between the first point and the second point: " + Point.distanceBetweenPoints(firstPoint, secondPoint) + ";");
 
+
         System.out.println("\n" + "Updated coordinates of points:");
         firstPoint.setX(5);
         firstPoint.setY(45);

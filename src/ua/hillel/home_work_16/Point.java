@@ -52,6 +52,7 @@ public class Point implements Cloneable{
         return x == point.x && y == point.y;
     }
 
+
     @Override
     public int hashCode() {
         return Objects.hash(x, y);
