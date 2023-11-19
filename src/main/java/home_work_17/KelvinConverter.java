@@ -1,4 +1,4 @@
-package ua.hillel.home_work_17;
+package home_work_17;
 
 public class KelvinConverter extends TemperatureConverter {
 

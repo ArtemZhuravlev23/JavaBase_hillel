@@ -1,4 +1,4 @@
-package ua.hillel.home_work_16;
+package home_work_16;
 
 import java.util.Objects;
 

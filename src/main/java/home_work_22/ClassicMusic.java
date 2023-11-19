@@ -1,4 +1,4 @@
-package ua.hillel.home_work_22;
+package home_work_22;
 
 public class ClassicMusic extends MusicStyles {
 
